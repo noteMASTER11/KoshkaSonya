@@ -1,5 +1,9 @@
 # Кошка Соня
 
+- [Кошкобилити](https://github.com/noteMASTER11/KoshkaSonya/blob/master/Usage.md)
+- [Баглист](https://github.com/noteMASTER11/KoshkaSonya/blob/master/Buglist.md)
+- [Кошкобу](https://pikabu.ru/story/moyo_byilostalo_6774116)
+
 ![](https://cs13.pikabu.ru/post_img/big/2019/06/22/5/1561189977191526125.jpg)
 
 *Британка, девочка, пробег 2.5 года, один хозяин, цвет серый металлик, охолощенный ствол, отведенный выхлоп (только в лоток), 2-скоростная которобка передач, 10 кош.с. днем и ~100 по утрам, двойная фронталка 2 котопикселя, мебель не дерет (!), ласковая, зовут Соня.*
@@ -19,6 +23,3 @@
 |**Руль**|Центральный|
 |**Цвет**|Серый|
 
-- [Кошкобилити](https://github.com/noteMASTER11/KoshkaSonya/blob/master/Usage.md)
-- [Баглист](https://github.com/noteMASTER11/KoshkaSonya/blob/master/Buglist.md)
-- [Кошкобу](https://pikabu.ru/story/moyo_byilostalo_6774116)
