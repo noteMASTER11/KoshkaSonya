@@ -20,4 +20,5 @@
 |**Цвет**|Серый|
 
 - [Кошкобилити](https://github.com/noteMASTER11/KoshkaSonya/blob/master/Usage.md)
+- [Баглист](https://github.com/noteMASTER11/KoshkaSonya/blob/master/Buglist.md)
 - [Кошкобу](https://pikabu.ru/story/moyo_byilostalo_6774116)
